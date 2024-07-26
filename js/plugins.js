@@ -15,5 +15,6 @@ var $plugins =
 {"name":"ThroughFailedToLoad","status":true,"description":"ロード失敗エラーのすり抜けプラグイン","parameters":{"テストプレー時無効":"true","Web版で無効":"false","無視種別":"3"}},
 {"name":"DataCacheBlocker","status":true,"description":"キャッシュを阻止します。（dataフォルダのみ）","parameters":{}},
 {"name":"MPP_ChoiceEX","status":true,"description":"選択肢の機能を拡張します。","parameters":{"Max Page Row":"10","Disabled Position":"none","Choice Help Commands":"[\"ChoiceHelp\",\"<ChoiceHelp>\",\"選択肢ヘルプ\",\"<選択肢ヘルプ>\"]"}},
-{"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"画像のダウンロードページに移動します。"}}
+{"name":"HyperLink","status":true,"description":"ゲーム中に外部ページへのリンクを貼ります。","parameters":{"description":"画像のダウンロードページに移動します。"}},
+{"name":"FileDownloader","status":true,"description":"ファイルダウンロードプラグイン","parameters":{"正常終了スイッチID":"0","異常終了スイッチID":"0","配布サイトURL":""}}
 ];
