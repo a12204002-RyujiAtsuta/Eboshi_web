@@ -96,7 +96,7 @@ null,
 {"id":94,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":95,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":96,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":97,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":97,"list":[{"code":201,"indent":0,"parameters":[0,4,1,0,0,0]},{"code":355,"indent":0,"parameters":["for(var i = 0; i <= 100; i++){$gameScreen.erasePicture(i)}"]},{"code":0,"indent":0,"parameters":[]}],"name":"クレジット","switchId":1,"trigger":0},
 {"id":98,"list":[{"code":201,"indent":0,"parameters":[0,3,1,0,0,0]},{"code":355,"indent":0,"parameters":["for(var i = 0; i <= 100; i++){$gameScreen.erasePicture(i)}"]},{"code":0,"indent":0,"parameters":[]}],"name":"サーチ","switchId":1,"trigger":0},
 {"id":99,"list":[{"code":201,"indent":0,"parameters":[0,2,0,0,0,0]},{"code":0,"indent":0,"parameters":[]}],"name":"リロード","switchId":1,"trigger":0}
 ]
